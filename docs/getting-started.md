@@ -1,7 +1,7 @@
 ---
 title: Getting started
 date: 2018-09-15 07:42:34
-slug: getting-started
+slug: getting/started
 ---
 
 ## What is Jamdocs

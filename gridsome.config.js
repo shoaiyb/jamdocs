@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteName: 'BoidCMS',
+  siteUrl: 'https://jamdocs.pages.dev',
   templates: {
     Doc: '/:slug',
   },
