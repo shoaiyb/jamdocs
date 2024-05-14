@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: demo
+---
+
 # Demo's
 
 - [BoidCMS Demo](https://boidcms.alwaysdata.net)

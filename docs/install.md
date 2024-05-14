@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: install
+---
+
 ## Installing BoidCMS from a zip file
 
 - Get the latest version of BoidCMS from the [official repository](https://github.com/BoidCMS/BoidCMS).

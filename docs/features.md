@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: features
+---
+
 # Features
 BoidCMS is a free and open source content management system designed to be simple, easy to use, and highly extensible. It comes with a range of features to help you create and manage your website with ease.
 

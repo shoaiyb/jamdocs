@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: changelog
+---
+
 # Changelog
 
 ## v2.1.0

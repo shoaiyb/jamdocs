@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: _coverpage
+---
+
 <p align="center">
   <img alt="BoidCMS logo" width="60" height="60" src="/_media/logo.svg" />
 </p>

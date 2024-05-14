@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: license
+---
+
 MIT License
 
 Copyright (c) 2023 Shuaib Yusuf Shuaib   

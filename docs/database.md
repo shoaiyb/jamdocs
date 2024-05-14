@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: database
+---
+
 # Database Default Structure
 Below is an example of a formatted JSON representation of a newly created database:
 

@@ -1,3 +1,9 @@
+---
+title:
+date: 2024-05-14 07:05:00
+slug: showcase
+---
+
 # Showcase of Websites Built with BoidCMS
 
 - [BoidCMS Demo](https://boidcms.alwaysdata.net)
